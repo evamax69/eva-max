@@ -1,1 +1,1 @@
-# Project-M - a python discord self-bot
+# EvaMax - a python discord self-bot
